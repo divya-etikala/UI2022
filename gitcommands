@@ -10,3 +10,6 @@ git status - it shows what are the files we have been changed
 git add . -- it will add the files to the git commit
 git commit -m "msg" - commits all the current git 
 git push - pushes our local change to remote
+
+
+git checkout -- fileName - discards the file changes
