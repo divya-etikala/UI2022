@@ -1,0 +1,12 @@
+git branch -- returns all the branches in local
+
+creating new branch
+1. git checkout -b branchName -- creates new branch and checkout the new branch
+2. git branch branchName -- create new branch
+   git checkout branchName -- checkou the new branch which will created 
+
+
+git status - it shows what are the files we have been changed 
+git add . -- it will add the files to the git commit
+git commit -m "msg" - commits all the current git 
+git push - pushes our local change to remote
