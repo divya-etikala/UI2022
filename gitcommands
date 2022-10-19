@@ -13,3 +13,6 @@ git push - pushes our local change to remote
 
 
 git checkout -- fileName - discards the file changes
+
+
+git reset HEAD -- fileName - it will removes the file from staged command
